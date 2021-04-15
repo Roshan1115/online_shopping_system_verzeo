@@ -13,22 +13,31 @@
     * routing.js
    
   * frontend
-    * PwNotMatching.html	
-    * index.html		
-    * signUp.html		
-    * invalidLogin.html	
-    * signinErr.html
-    * eightCharacter.html	
-    * loginErr.html
-    * home.html		
-    * portfolio-details.html
-    * assets	
-      * css	
-          * style.css
-      * img	
-          * All Images over here
-      * js	
-          * main.js
+      * PwNotMatching.html	
+      * index.html		
+      * signUp.html		
+      * invalidLogin.html	
+      * signinErr.html
+      * eightCharacter.html	
+      * loginErr.html
+      * home.html		
+      * portfolio-details.html
+      * assets	
+          * css	
+              * style.css
+          * img	
+              * All Images over here
+          * js	
+              * main.js
+          * vendor (all bootstrap relate files/ layout)
+              * aos		
+              * bootstrap-icons	
+              * glightbox	
+              * bootstrap	
+              * boxicons	
+              * isotope-layout	
+              * swiper
+
       * Products
           * BeardOil.html		
           * menshirt.html		
@@ -40,14 +49,7 @@
           * skingel.html
           * kids.html		
           * speaker.html
-      * vendor (all bootstrap relate files/ layout)
-          * aos		
-          * bootstrap-icons	
-          * glightbox	
-          * bootstrap	
-          * boxicons	
-          * isotope-layout	
-          * swiper
+     
 
 
 
