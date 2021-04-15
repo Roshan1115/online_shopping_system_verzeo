@@ -29,6 +29,17 @@
           * All Images over here
       * js	
           * main.js
+      * Products
+          * BeardOil.html		
+          * menshirt.html		
+          * tvDetail.html
+          * assets (Same as frontend's assets)			
+          * moiscream.html		
+          * womenwearin.html
+          * camera.html		
+          * skingel.html
+          * kids.html		
+          * speaker.html
       * vendor (all bootstrap relate files/ layout)
           * aos		
           * bootstrap-icons	
